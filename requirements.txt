@@ -1,0 +1,31 @@
+# --- Core AI & LLM Frameworks ---
+langchain_openai==1.2.1
+langchain_core==1.3.2
+langchain_huggingface==1.2.2
+langchain_chroma==1.1.0
+langmem==0.0.30
+openai==2.32.0
+litellm==1.83.14
+ollama==0.6.1
+
+# --- Machine Learning & NLP ---
+torch==2.11.0
+transformers==5.6.2
+sentence_transformers==5.4.1
+scikit-learn==1.8.0
+nltk==3.9.4
+rank_bm25==0.2.2
+
+# --- Database & Storage ---
+chromadb==1.5.8
+
+# --- Data Science & Visualization ---
+numpy==2.4.4
+pandas==3.0.2
+matplotlib==3.10.9
+seaborn==0.13.2
+
+# --- Utilities ---
+pydantic==2.13.3
+python-dotenv==1.2.2
+tqdm==4.67.3
