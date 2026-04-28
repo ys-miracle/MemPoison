@@ -2,7 +2,6 @@
 
 This is the official implementation of **MemPoison**, a practical and stealthy memory poisoning framework targeting memory-augmented LLM agents. 
 
-![Framework](framework.png)
 ---
 
 ## 📂 Directory Structure
