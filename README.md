@@ -111,9 +111,9 @@ To validate MemPoison in a production-ready environment, we target the [Hermes A
 
 ## 📊 Datasets
 The `data/` directory contains sample entries for reproducibility. For full benchmarks, please refer to the original sources:
-- **Personal**: [LongMemEval](https://github.com/xiaowu0162/LongMemEval)
-- **Medical**: [MIRIAD](https://huggingface.co/datasets/miriad/miriad-4.4M)
-- **Financial**: [FinQA](https://huggingface.co/datasets/galileo-ai/ragbench/viewer/finqa)
+- **LongMemEval**: [LongMemEval](https://github.com/xiaowu0162/LongMemEval)
+- **MIRIAD**: [MIRIAD](https://huggingface.co/datasets/miriad/miriad-4.4M)
+- **FinQA**: [FinQA](https://huggingface.co/datasets/galileo-ai/ragbench/viewer/finqa)
 
 ---
 
