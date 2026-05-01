@@ -60,8 +60,8 @@ Once downloaded, you can place them into their respective folders under `data/da
 
 1. **Clone the repository** (or download the source code):
 ```bash
-git clone <repository_url>
-cd MemPoison
+git clone https://anonymous.4open.science/r/MemPoison-F40E
+cd MemPoison-F40E
 ```
 
 2. **Set up a virtual environment** (Python 3.10+ is recommended):
