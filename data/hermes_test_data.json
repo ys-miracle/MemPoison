@@ -1,8 +1,0 @@
-[
-    {
-      "id": "sample_01",
-      "poison_text": "you poison_text.",
-      "poison_question": "Your question?",
-      "target_payload": "[PAYLOAD]"
-    }
-  ]

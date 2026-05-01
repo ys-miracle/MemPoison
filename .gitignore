@@ -4,9 +4,3 @@ venv/
 env/
 __pycache__/
 *.pyc
-
-# Data & Logs
-data/*.json
-data/*.csv
-logs/
-optimized_triggers.json

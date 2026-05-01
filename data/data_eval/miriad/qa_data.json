@@ -1,0 +1,502 @@
+[
+    {
+        "text_id": 1,
+        "text": "The diagnostic procedures used to identify gastrocolic or gastrojejunocolic fistula include fluoroscopy with manual obstruction of the operative gastric opening, observation of barium entering the colon shortly after escaping from the stomach, and subsequent examinations at two or five hours to show the abnormal rapidity of passage to the pelvic colon. In cases where folds of mucosa prevent the observation of barium entering the colon, an opaque enema can be employed after evacuating all administered barium. This procedure helps to identify the characteristic patterns of small bowel and gastric mucosa, as well as the contour and size of the gastric lumen.",
+        "verification_question": "What are the diagnostic procedures used to identify gastrocolic or gastrojejunocolic fistula?"
+    },
+    {
+        "text_id": 2,
+        "text": "The treatment of gastrojejunocolic fistula is challenging due to several factors. Patients with this condition are often emaciated and in poor general condition, having undergone one or more previous gastric operations. The surgeon faces obstacles that may prevent them from obtaining anything better than a fair result. Additionally, peritonitis from contamination is a constant danger, despite the establishment of a certain amount of peritoneal immunity through fistula formation. The number and virulence of bacteria increase as one passes down the intestinal tract, making infection a concern. There is no routine operation that can be universally applied to all fistulas, further complicating the treatment approach.",
+        "verification_question": "What are the challenges faced in the treatment of gastrojejunocolic fistula?"
+    },
+    {
+        "text_id": 3,
+        "text": "Patients with gastrojejunocolic fistula often present in a poor general condition, with marked weight loss and alterations in body chemistry. Dehydration is commonly present due to diarrhea, and the amount of chloride lost through vomiting or sodium lost through diarrhea can lead to alkalosis or acidosis. Adequate pre-operative preparation is crucial in these patients to address their poor general condition and optimize their health before surgery. This may involve addressing dehydration, correcting electrolyte imbalances, and improving overall nutritional status.",
+        "verification_question": "What are the potential complications and considerations in the pre-operative preparation of patients with gastrojejunocolic fistula?"
+    },
+    {
+        "text_id": 4,
+        "text": "Some recognized operative procedures for the treatment of fistula include excision or simple closure of the fistula, undoing of the old gastroenterostomy, and reconstruction of the gastrointestinal tract to its normal state.",
+        "verification_question": "What are some recognized operative procedures for the treatment of fistula?"
+    },
+    {
+        "text_id": 5,
+        "text": "A careful pre-operative regime designed to restore the body chemistry to as near normal as possible is imperative for patients undergoing fistula surgery. This is important to ensure the best possible outcome and to minimize complications during and after the surgery.",
+        "verification_question": "Why is a careful pre-operative regime important for patients undergoing fistula surgery?"
+    },
+    {
+        "text_id": 6,
+        "text": "Symptoms that may indicate the presence of a fistula include recurrent epigastric pain, nausea, vomiting, watery diarrhea, foul eructations, sensations of bloating, extreme weakness, and weight loss. These symptoms may vary depending on the location and severity of the fistula.",
+        "verification_question": "What are some symptoms that may indicate the presence of a fistula?"
+    },
+    {
+        "text_id": 7,
+        "text": "Potential complications of a transverse closure of the opening in the jejunum may include difficulty in separating jejunal coils, development of a jejuno-colonic fistula, and the formation of a penetrating jejunal ulcer.",
+        "verification_question": "What are the potential complications of a transverse closure of the opening in the jejunum?"
+    },
+    {
+        "text_id": 8,
+        "text": "A Finney pyloroplasty is a surgical procedure used to treat an occluded pylorus. It involves creating a new opening in the pylorus to improve gastric emptying and relieve symptoms. The exact technique may vary, but it typically involves making an incision in the pylorus and then suturing it in a transverse manner to create a larger opening.",
+        "verification_question": "How is a Finney pyloroplasty performed to treat an occluded pylorus?"
+    },
+    {
+        "text_id": 9,
+        "text": "Acute toxic psychosis is a condition characterized by sudden onset of psychiatric symptoms, such as hallucinations, delusions, and disorganized thinking, following surgery. The exact cause is unclear, but it may be related to anesthesia, medications, or metabolic disturbances. Treatment typically involves supportive care, monitoring, and sometimes the use of antipsychotic medications. The condition usually resolves within a week.",
+        "verification_question": "What are the symptoms and treatment options for an acute toxic psychosis following surgery?"
+    },
+    {
+        "text_id": 10,
+        "text": "Surgical procedures that can be performed to treat complications of duodenal ulcers include gastroenterostomy and pyloroplasty. Gastroenterostomy involves creating a connection between the stomach and the jejunum, bypassing the duodenum. This procedure can help relieve symptoms of duodenal obstruction or promote better drainage of stomach contents. Pyloroplasty, on the other hand, involves enlarging the opening between the stomach and the duodenum (pylorus) to improve gastric emptying and reduce symptoms such as vomiting. These surgical procedures aim to alleviate symptoms and improve the overall function of the digestive system.",
+        "verification_question": "What surgical procedures can be performed to treat complications of duodenal ulcers?"
+    },
+    {
+        "text_id": 11,
+        "text": "Potential complications that can arise after surgical treatment of duodenal ulcers include reactivation of the ulcer, wound infection, and post-operative distention. Reactivation of the ulcer can occur even after surgical intervention, leading to the recurrence of symptoms such as abdominal pain and discomfort. Wound infection is a common complication of any surgical procedure and can delay recovery. Post-operative distention refers to the accumulation of gas or fluid in the digestive system, which can cause discomfort and may require additional treatment such as gastric suction. Close monitoring and appropriate management are necessary to address these complications and ensure a successful recovery.",
+        "verification_question": "What are the potential complications that can arise after surgical treatment of duodenal ulcers?"
+    },
+    {
+        "text_id": 12,
+        "text": "Infections such as rotavirus and disorders like coeliac disease can lead to altered barrier properties in the intestinal membranes. Additionally, chronic uraemia and the production of potentially toxic substances by the bacterial flora in the intestinal lumen can also contribute to changes in barrier function.",
+        "verification_question": "What are some potential causes of altered barrier properties in the intestinal membranes?"
+    },
+    {
+        "text_id": 13,
+        "text": "Impaired renal function leads to a decreased overall urinary recovery of molecules. The simulation suggests that there is a relatively increased recovery of larger molecules when the renal clearance is reduced. This means that the relative recovery of larger molecules is higher in uraemic patients compared to those with normal renal function.",
+        "verification_question": "How does impaired renal function affect the urinary recovery of molecules?"
+    },
+    {
+        "text_id": 14,
+        "text": "The urinary recovery of orally given PEGs depends on factors such as the absorptive surface area, intestinal transit time, permeability of the intestinal membranes, and renal excretion (renal function). The relative recovery of molecules of different sizes is mainly influenced by the permeability of the intestine, assuming the transit time is not greatly affected.",
+        "verification_question": "What factors influence the urinary recovery of orally given PEGs?"
+    },
+    {
+        "text_id": 15,
+        "text": "When PEGs are given orally to uraemic rats, the overall recovery is decreased for all molecular weight species due to impaired renal function. However, the urinary recovery of smaller molecules is relatively higher than that of larger molecules. In contrast, in control rats, the urinary recovery of smaller molecules is lower than that of larger PEGs. This suggests that impaired renal function affects the urinary recovery of PEGs differently depending on the route of administration.",
+        "verification_question": "How does the urinary recovery of PEGs differ when given orally versus intravenously in uraemic rats?"
+    },
+    {
+        "text_id": 16,
+        "text": "The higher rate of post-operative complications in Indian patients compared to European patients can be attributed to several factors. Firstly, the general nutritional state of Indian patients is poorer than that of European patients, which can lead to a higher risk of complications. Additionally, the Indian series had a larger number of advanced cases operated on, which also increases the likelihood of complications. The lack of post-operative care facilities and limited radiation facilities in the Indian institute further contribute to the higher rate of complications.",
+        "verification_question": "What are the factors that contribute to the higher rate of post-operative complications in Indian patients compared to European patients?"
+    },
+    {
+        "text_id": 17,
+        "text": "The incidence of posterior 1/3rd of tongue involvement with malignancy in this series is significantly high. This is concerning because tumors in this area are known to be more difficult to treat. The prognosis for patients with posterior 1/3rd of tongue involvement is worse compared to other locations. Therefore, special attention and tailored treatment approaches may be necessary for patients with malignancies in this region to improve their outcomes.",
+        "verification_question": "What are the implications of posterior 1/3rd of tongue involvement in malignancy?"
+    },
+    {
+        "text_id": 18,
+        "text": "Risk factors for developing tuberculosis include close contact with an infected individual, living in crowded or unsanitary conditions, weakened immune system (such as HIV infection), malnutrition, and substance abuse. Other factors that may increase the risk include age (being very young or elderly), certain medical conditions (such as diabetes or kidney disease), and certain medications (such as corticosteroids or chemotherapy drugs).",
+        "verification_question": "What are the risk factors for developing tuberculosis?"
+    },
+    {
+        "text_id": 19,
+        "text": "Tuberculosis is primarily transmitted through the air when an infected individual coughs, sneezes, or talks. The bacteria are contained in tiny droplets called Flügge droplets, which can be inhaled by a healthy person. Direct contact with an infected person can also lead to transmission, although this is less common. Indirect transmission through handling contaminated material or animals is rare.",
+        "verification_question": "How is tuberculosis transmitted from one person to another?"
+    },
+    {
+        "text_id": 20,
+        "text": "Tuberculosis can manifest in various parts of the head and neck region, including the larynx, middle and external ear, tonsils, cervical lymph nodes, pharynx, oral cavity, and salivary glands. In the larynx, dysphonia (hoarseness) is the most common symptom, present in almost all patients. Other symptoms may include difficulty swallowing, coughing up blood, and neck swelling. The pattern of attack of the disease in this region has changed over time, with more subclinical forms being observed currently.",
+        "verification_question": "What are the manifestations of tuberculosis in the head and neck region?"
+    },
+    {
+        "text_id": 21,
+        "text": "Common manifestations of laryngeal tuberculosis include dysphagia due to ulceration of the laryngeal vestibule or perichondritis of the cricoid cartilage, cough and hemoptysis due to lung involvement, dyspnea due to edema or laryngeal granulomas that may obstruct the larynx.",
+        "verification_question": "What are the common manifestations of laryngeal tuberculosis?"
+    },
+    {
+        "text_id": 22,
+        "text": "Lymph node tuberculosis may occur through dissemination via the bloodstream from bacillary pulmonary foci or through the entrance of bacilli via the tonsils, dental or pharyngeal foci. It is most commonly located in the cervical, supraclavicular, hilar, and mediastinal regions, but any lymph node may be affected.",
+        "verification_question": "How does lymph node tuberculosis occur?"
+    },
+    {
+        "text_id": 23,
+        "text": "The classic presentation of middle ear tuberculosis includes painless otorrhea, multiple perforation of the tympanic membrane, and peripheral facial palsy. However, the presentation has become polymorphic. Complications of middle ear tuberculosis include peripheral facial paralysis, retro-auricular fistula, labyrinthitis, meningitis, tuberculous osteomyelitis of the petrous pyramid, subperiosteal, cerebral or cerebellar abscess, acute mastoiditis, and cellulitis.",
+        "verification_question": "What are the common symptoms and complications of middle ear tuberculosis?"
+    },
+    {
+        "text_id": 24,
+        "text": "The clinical features of tuberculosis affecting the salivary glands include hypertrophy of the tonsils, bulging in the oropharynx with edema and erythema, and yellow platelets on the surface of the tonsils. In the case of primary tuberculosis, it can manifest as an acute inflammatory lesion mimicking acute suppurative sialadenitis or as a chronic tumor. Secondary tuberculosis more commonly involves the submandibular and sublingual glands rather than the parotid gland.",
+        "verification_question": "What are the clinical features of tuberculosis affecting the salivary glands?"
+    },
+    {
+        "text_id": 25,
+        "text": "The diagnosis of laryngeal tuberculosis can be obtained through the isolation and culture of Mycobacterium tuberculosis, although this diagnosis may take up to four weeks of cultivation. Biopsy can also be used to check for concomitance with laryngeal cancer. Anatomopathological examination, microscopy, and chest radiography can aid in the diagnosis. The Mantoux or intradermal test and PCR tests can also be used, although they are not specific to laryngeal disease.",
+        "verification_question": "How is laryngeal tuberculosis diagnosed?"
+    },
+    {
+        "text_id": 26,
+        "text": "The diagnosis of tuberculosis affecting lymph nodes can be made through aspirative punction, with the smear material being positive in 10% to 25% of cases and culture being positive in 50% to 85% of cases. Biopsy of the lymph node may show granuloma with caseous necrosis in 91% to 96% of patients. The tuberculin skin test (Mantoux) is often a strong reactor, except in immunosuppressed individuals.",
+        "verification_question": "How is tuberculosis affecting lymph nodes diagnosed?"
+    },
+    {
+        "text_id": 27,
+        "text": "Some differential diagnoses for oral tuberculosis include traumatic ulcers, aphthous ulcers, blood disorders, actinomycosis, syphilis, midline granuloma, Wegener's disease, and cancer [21].",
+        "verification_question": "What are some differential diagnoses for oral tuberculosis?"
+    },
+    {
+        "text_id": 28,
+        "text": "HIV infection modifies the clinical presentation of tuberculosis and the duration of treatment. It also affects tolerance to antituberculosis drugs and resistance to the available drugs [33].",
+        "verification_question": "How does HIV infection impact the clinical presentation and treatment of tuberculosis?"
+    },
+    {
+        "text_id": 29,
+        "text": "In Brazil, the recommended treatment regimen for tuberculosis includes the use of isoniazid, rifampicin, pyrazinamide, and ethambutol in the first phase of treatment for two months, followed by rifampicin and isoniazid for four months. This regimen is used for the treatment of all forms of pulmonary and extrapulmonary tuberculosis in new cases of patients, regardless of HIV infection [34].",
+        "verification_question": "What is the recommended treatment regimen for tuberculosis in Brazil?"
+    },
+    {
+        "text_id": 30,
+        "text": "The major goals of therapy for 21-OHD patients are to minimize the suppression of linear growth and achieve a final height similar to their genetic potential height. However, optimizing this therapy has been challenging. Undertreatment can lead to androgen excess, maturation of bone age, precocious puberty, and decreased final height. Overtreatment can suppress linear growth and cause iatrogenic Cushing's syndrome.",
+        "verification_question": "What are the major goals of therapy for 21-OHD patients and what are the challenges associated with optimizing this therapy?"
+    },
+    {
+        "text_id": 31,
+        "text": "Glucocorticoid administration, even in substitution doses, may cause obesity in 21-OHD patients. Body mass index (BMI) is elevated in most 21-OHD patients, and recent studies have shown that adult CAH patients (including 21-OHD patients) tend to have metabolic syndrome.",
+        "verification_question": "How does glucocorticoid administration in 21-OHD patients affect obesity?"
+    },
+    {
+        "text_id": 32,
+        "text": "Neurophysiologic monitoring during TAAA surgery has been shown to be highly useful in predicting and preventing neurologic complications. Studies have demonstrated that changes in somatosensory-evoked potentials (SSEPs) and motor-evoked potentials (MEPs) during surgery are correlated with immediate neurologic deficits. On the other hand, normal SSEP and MEP findings have a strong negative predictive value for neurologic deficits. Neurophysiologic monitoring allows for the identification of irreversible changes and the implementation of active intraoperative measures to mitigate these changes, such as intercostal artery reattachment and management of distal aortic and cerebrospinal fluid pressure. It requires an experienced team of a surgeon, neurologist, anesthesiologist, and perfusionist to ensure effectiveness and accuracy.",
+        "verification_question": "What are the benefits of neurophysiologic monitoring during thoracoabdominal aortic aneurysm (TAAA) surgery?"
+    },
+    {
+        "text_id": 33,
+        "text": "Some surgical groups may not embrace neurophysiologic monitoring during TAAA surgery due to various reasons. One reason could be the requirement of an experienced team and the coordination of efforts between different specialists, including a surgeon, neurologist, anesthesiologist, and perfusionist. Another reason could be concerns about the validity of MEPs, citing potential interference by anesthesia agents and other factors. However, the use of neurophysiologic monitoring has been shown to be effective in improving patient safety and reducing neurologic complications. It should be viewed as a \"standard-of-care\" rather than an obscure modality.",
+        "verification_question": "Why do some surgical groups not embrace neurophysiologic monitoring during TAAA surgery?"
+    },
+    {
+        "text_id": 34,
+        "text": "Neurophysiologic monitoring during TAAA surgery contributes to patient safety by allowing for the early detection and prevention of neurologic complications. Changes in SSEPs and MEPs can indicate potential neurologic deficits, and immediate action can be taken to reverse these changes and mitigate complications. The synergy of efforts from the surgical team, including improving distal aortic perfusion, reducing cerebrospinal fluid pressure, and intercostal artery reattachment, is crucial in ensuring patient safety. Neurophysiologic monitoring should be considered a recommended strategy for spinal cord protection during TAAA surgery.",
+        "verification_question": "How does neurophysiologic monitoring during TAAA surgery contribute to patient safety?"
+    },
+    {
+        "text_id": 35,
+        "text": "The prevalence of thyroid nodules in Chinese adults is approximately 18-40%.",
+        "verification_question": "What are the prevalence rates of thyroid nodules in Chinese adults?"
+    },
+    {
+        "text_id": 36,
+        "text": "Fine-needle aspiration (FNA) has been recommended by various organizations for the more precise preoperative diagnosis of thyroid nodules.",
+        "verification_question": "What is the recommended method for preoperative diagnosis of thyroid nodules?"
+    },
+    {
+        "text_id": 37,
+        "text": "Electroconvulsive therapy (ECT) has been associated with transient impairments in cognitive performance, including deficits in orientation, short-term memory function, attention, speech fluency, and executive functions. These impairments can last from hours to months in some cases. Different studies have reported diverse negative impacts on various domains of cognition, such as verbal memory, visual memory, and verbal fluency. The extent and specific effects of ECT on cognitive performance remain a topic of debate and further investigation is needed to clarify the factors that contribute to these adverse effects.",
+        "verification_question": "What are the potential adverse effects of electroconvulsive therapy (ECT) on cognitive performance?"
+    },
+    {
+        "text_id": 38,
+        "text": "Hyperthyroidism has been found to alter certain electrophysiological variables of atrial tissue. Studies have shown that in hyperthyroid rabbits, the effective refractory period of the atria is shortened, meaning that the atria are more susceptible to abnormal electrical activity such as atrial fibrillation. This suggests that excess thyroid hormone may increase the risk of atrial fibrillation by affecting the electrophysiological properties of the atrial tissue.",
+        "verification_question": "How does hyperthyroidism affect the electrophysiological properties of atrial tissue?"
+    },
+    {
+        "text_id": 39,
+        "text": "Atrial fibrillation is a common complication of hyperthyroidism. Studies have shown that approximately 15% of patients with hyperthyroidism have atrial fibrillation at the time of diagnosis. However, reversion to sinus rhythm is common following treatment of hyperthyroidism, especially in patients without preexisting heart disease. This suggests that the excess thyroid hormone in hyperthyroidism may contribute to the development of atrial fibrillation, but treating the underlying hyperthyroidism can often restore normal heart rhythm.",
+        "verification_question": "What is the relationship between hyperthyroidism and atrial fibrillation?"
+    },
+    {
+        "text_id": 40,
+        "text": "Previous studies have focused on the role of catecholamines and the influence of thyroxine in sensitizing the heart to the effects of the sympathetic nervous system in hyperthyroidism. Excess thyroid hormone in hyperthyroidism can cause alterations in cardiac function that resemble sympathetic overactivity. Catecholamines, which are hormones released by the sympathetic nervous system, can further enhance the effects of excess thyroid hormone on the heart. This combination of factors may contribute to the increased heart rate and susceptibility to abnormal heart rhythms, such as atrial fibrillation, seen in hyperthyroidism.",
+        "verification_question": "How do catecholamines and thyroxine influence the heart in hyperthyroidism?"
+    },
+    {
+        "text_id": 41,
+        "text": "Thyroxine treatment in rabbits induces sinus tachycardia, a shift to the left of the strength-interval curves, a shortening of the effective refractory period, a lowering of the atrial multiple-response threshold, and a probable decrease of the threshold in late diastole. These changes are believed to be a direct effect of thyroxine treatment on the atrium and are not mediated by catecholamines or acetylcholine.",
+        "verification_question": "What are the effects of thyroxine treatment on the rabbit atrium?"
+    },
+    {
+        "text_id": 42,
+        "text": "Catecholamine infusion does not inappropriately potentiate the heart rate and blood pressure in hyperthyroidism. Studies have shown that the response in heart rate to sympathetic stimulation does not differ significantly in hyperthyroid individuals compared to controls, except that the baseline heart rate is higher in hyperthyroidism.",
+        "verification_question": "How does catecholamine infusion affect heart rate and blood pressure in hyperthyroidism?"
+    },
+    {
+        "text_id": 43,
+        "text": "No, epinephrine and norepinephrine produce little alteration in the electrophysiologic properties of atrial tissue and cannot mimic the changes induced by thyroxine. While acetylcholine has been shown to produce atrial fibrillation in experimental animals and humans, catecholamines do not have the same effect.",
+        "verification_question": "Can epinephrine and norepinephrine mimic the changes induced by thyroxine in the electrophysiologic properties of atrial tissue?"
+    },
+    {
+        "text_id": 44,
+        "text": "Thyroxine has been shown to directly or indirectly affect the cell membrane of atrial muscle, leading to changes in its electrical properties. While the exact mechanism is not fully understood, it is believed that thyroxine may increase outward membrane current during the action potential, resulting in acceleration of repolarization. This can be achieved through various membrane changes, such as more rapid inactivation of inward sodium current. Thyroxine may also have a direct influence on active or passive ionic transport across cardiac cellular membranes. Studies have shown that thyroid hormone affects ionic movement in different tissues, inhibiting active transport of sodium in the toad bladder, altering sodium levels in the brain, and causing an accumulation of sodium and calcium within skeletal muscle cells. However, further research is needed to fully understand the interrelationship between sodium pump activity, metabolic activity, and membrane events in excitable tissue.",
+        "verification_question": "How does thyroxine affect the electrical properties of atrial muscle?"
+    },
+    {
+        "text_id": 45,
+        "text": "Thyrotoxicosis, a condition characterized by excessive thyroid hormone production, has been associated with an increased susceptibility to atrial fibrillation. Studies have shown that thyrotoxic hearts exhibit a shortened refractory period and an increased tendency to develop atrial fibrillation. This effect is not uniform and is believed to be due to electrical inhomogeneity in the atrial tissue, which creates conditions ideal for reentrant excitation and the initiation of atrial fibrillation. While the exact mechanisms underlying this increased susceptibility are not fully understood, it is clear that both the direct action of thyroxine on atrial muscle and the influence of the autonomic nervous system play a role. The autonomic nervous system can further modulate the clinical picture of thyrotoxicosis, with sudden increases in vagal effect potentially triggering atrial fibrillation in an already \"primed\" atrial myocardium.",
+        "verification_question": "How does thyrotoxicosis affect the susceptibility to atrial fibrillation?"
+    },
+    {
+        "text_id": 46,
+        "text": "Atrial myxoma can present with a symptomatic triad, which includes mitral valve obstruction symptoms (such as cardiac insufficiency and weakness), embolism symptoms (especially affecting the brain and peripheral vessels), and systemic symptoms (such as fever and weight loss). Neurological manifestations are reported in 25% to 45% of cases and can include cerebral infarction, cerebral hemorrhage, subarachnoid hemorrhage, syncopes, psychiatric symptoms, cephalea, and epileptic fits. Recurrent cerebral infarctions are common before the resection of the tumor, and fusiform or saccular aneurysms may be observed distally in intracranial arteries.",
+        "verification_question": "What are the common symptoms and manifestations of atrial myxoma?"
+    },
+    {
+        "text_id": 47,
+        "text": "Atrial myxoma accounts for approximately 50% of surgeries conducted for cardiac tumors. It is more common in women (3 women to 2 men) and typically affects individuals from the third to the sixth decade of life, with an average age of 43 years. The tumor is infrequent during childhood.",
+        "verification_question": "What is the prevalence and demographic profile of atrial myxoma?"
+    },
+    {
+        "text_id": 48,
+        "text": "A diagnosis of atrial myxoma can be made through imaging techniques such as transesophageal echocardiogram, which can reveal the presence of a left expansive lesion. Surgical resection is the preferred treatment for atrial myxoma. After surgery, patients may be kept under observation for any further neurological events.",
+        "verification_question": "How is atrial myxoma diagnosed and treated?"
+    },
+    {
+        "text_id": 49,
+        "text": "Common symptoms of atrial myxoma include cardiac auscultation abnormalities and unspecified alterations in the electrocardiogram (ECG). However, it is important to note that 36% of patients may have normal cardiac auscultation and 6% may have normal ECG results. Other symptoms can include tumor size-related alterations in cardiac auscultation and ECG, which are more common in larger tumors. Additionally, the tumors can range in size from 1 to 15 cm and weigh from 15 to 180 grams, with a friable surface or villosities present in 35% of cases.",
+        "verification_question": "What are the common symptoms of atrial myxoma?"
+    },
+    {
+        "text_id": 50,
+        "text": "The recommended treatment for atrial myxoma is surgical excision, which is generally curative and can be performed in 69% of cases. Neurological events after surgery are rare. In some cases, the use of recombinant tissular plasminogen activator (rtPA) in the acute phase may be an option, especially if there are evidences of thrombi adhered to the tumor. However, the use of rtPA should preferably be done intra-arterially to minimize the risk associated with asymptomatic aneurysms. Anticoagulants may also be considered, although there is uncertainty regarding their use in these patients.",
+        "verification_question": "What is the recommended treatment for atrial myxoma?"
+    },
+    {
+        "text_id": 51,
+        "text": "The prevalence of silent infarctions in patients with atrial myxoma is estimated to be around 11% to 18%. Silent infarctions refer to asymptomatic brain infarctions that can be detected through neuroimaging. These infarctions are often present at the time of diagnosis and indicate a higher risk of future cognitive disturbances. Therefore, early surgical intervention is recommended, even in asymptomatic patients, as a secondary prevention measure against cerebral infarctions. Surgical excision of the atrial myxoma is important to prevent the occurrence of new cerebral events.",
+        "verification_question": "What is the prevalence of silent infarctions in patients with atrial myxoma?"
+    },
+    {
+        "text_id": 52,
+        "text": "Thrombotic microangiopathies (TMAs) are clinically characterized by thrombocytopenia, intravascular hemolysis accompanied by red cell fragmentation, and organ failure. TMAs are severe disorders caused by endothelial cell damage, platelet activation, and thrombus formation.",
+        "verification_question": "What are the main clinical characteristics of thrombotic microangiopathies (TMAs)?"
+    },
+    {
+        "text_id": 53,
+        "text": "Thrombotic microangiopathies (TMAs) are separated into two broad categories: thrombotic thrombocytopenic purpura (TTP) and hemolytic uremic syndrome (HUS). TTP is associated with a severe deficiency of the von Willebrand factor cleaving metalloprotease ADAMTS13 activity, which is frequently caused by the generation of its autoantibody, and typically involves the central nervous system. On the other hand, HUS predominantly involves the renal microvasculature and causes renal failure. The typical or classical type of HUS is caused by Shiga toxin-producing organisms, such as enterotoxigenic Escherichia coli or Shigella dysenteriae, and is accompanied by bloody diarrhea in the majority of cases. Secondary HUS or TMA is caused by various diseases or conditions that may cause systemic endothelial cell damage.",
+        "verification_question": "What are the two broad categories of thrombotic microangiopathies (TMAs) and how do they differ?"
+    },
+    {
+        "text_id": 54,
+        "text": "Atypical hemolytic uremic syndrome (aHUS) is caused by dysregulation of the alternative complement pathway on the surface of endothelial cells, which is due to genetic abnormalities of proteins involved in this pathway or the development of autoantibodies against these components. Excessive activation of the complement system leads to endothelial cell damage, platelet activation, and thrombosis. Mutations in the complement factor H (CFH) gene have been identified in aHUS patients, implicating abnormalities in the complement regulatory factors or C3 itself in the pathogenesis of aHUS.",
+        "verification_question": "What is the cause of atypical hemolytic uremic syndrome (aHUS)?"
+    },
+    {
+        "text_id": 55,
+        "text": "At first, the patient was diagnosed with TMA, but later it was determined that the case involved aHUS rather than TTP. aHUS (atypical hemolytic uremic syndrome) and TTP (thrombotic thrombocytopenic purpura) are both forms of thrombotic microangiopathy (TMA), but they have different underlying causes. TTP is typically caused by a deficiency in ADAMTS13, an enzyme that breaks down von Willebrand factor (vWF), leading to the formation of platelet-rich microthrombi. On the other hand, aHUS is often associated with dysregulation of the complement system, specifically involving mutations or dysfunctions in complement regulatory proteins such as complement factor H (CFH). In this case, the patient's plasma induced a moderate degree of hemolysis, suggesting a dysregulation of the complement system, which is more indicative of aHUS rather than TTP.",
+        "verification_question": "What is the difference between aHUS and TTP?"
+    },
+    {
+        "text_id": 56,
+        "text": "Eculizumab is a monoclonal antibody that targets complement component C5 and inhibits its cleavage into C5a and C5b, preventing the formation of the membrane attack complex (MAC). In the case of aHUS, eculizumab is used as a treatment option to inhibit the uncontrolled activation of the complement system, which is often associated with the disease. By blocking the formation of the MAC, eculizumab helps to prevent the destruction of red blood cells and the formation of platelet-rich microthrombi, which are characteristic features of aHUS. In this case, eculizumab therapy was initiated on postoperative day nine, and the patient showed improvement in platelet count, hemoglobin level, and renal function after starting the treatment.",
+        "verification_question": "What is the role of eculizumab in the treatment of aHUS?"
+    },
+    {
+        "text_id": 57,
+        "text": "The diagnosis of aHUS is based on a combination of clinical and laboratory findings. The clinical presentation often includes symptoms such as microangiopathic hemolytic anemia, thrombocytopenia, and acute kidney injury. Laboratory tests may show evidence of hemolysis (e.g., elevated lactate dehydrogenase and decreased haptoglobin levels), low platelet count, and renal dysfunction. In addition, genetic testing can be performed to identify mutations or dysfunctions in complement regulatory proteins, such as CFH, CFI, MCP, and C3. In this case, the patient's clinical and laboratory data, including the presence of hemolysis, thrombocytopenia, and renal dysfunction, along with the absence of other autoimmune antibodies and the detection of a moderate degree of hemolysis in the hemolytic assay, supported the diagnosis of aHUS.",
+        "verification_question": "What are the diagnostic criteria for aHUS?"
+    },
+    {
+        "text_id": 58,
+        "text": "Typical symptoms of aHUS include hemolytic anemia with red cell fragmentation, thrombocytopenia, and renal failure. Laboratory findings may show decreased serum C3 levels and increased hemolytic activity revealed by the sheep erythrocyte hemolysis assay.",
+        "verification_question": "What are the typical symptoms and laboratory findings of atypical hemolytic uremic syndrome (aHUS)?"
+    },
+    {
+        "text_id": 59,
+        "text": "A diagnosis of aHUS can be confirmed by detecting genetic abnormalities of the complement system or autoantibodies against CFH. However, these abnormalities may not be detected in up to half of patients with aHUS, even after thorough investigations. Diagnostic tests such as measuring the concentration of complement proteins in the serum and the sheep erythrocyte lysis assay lack sensitivity and specificity.",
+        "verification_question": "How is a diagnosis of aHUS confirmed and what are the challenges in diagnosing this condition?"
+    },
+    {
+        "text_id": 60,
+        "text": "For patients with aHUS who are not responding completely to PE or have progressing renal injury despite a hematological response, it is recommended to start eculizumab therapy. Eculizumab has shown a remarkable therapeutic effect on aHUS. The extent of renal function recovery correlates inversely with the time interval between the onset of an episode of aHUS and the initiation of eculizumab treatment.",
+        "verification_question": "What is the recommended treatment for patients with aHUS who are not responding completely to plasma exchange (PE) or have progressing renal injury despite a hematological response?"
+    },
+    {
+        "text_id": 61,
+        "text": "Thrombomodulin is one of the biomarkers that may have clinical value in predicting the recurrence of aHUS after stopping eculizumab treatment. However, further studies are needed to evaluate its potential usefulness, as well as other biomarkers, in assessing the risk of recurrence in aHUS patients.",
+        "verification_question": "What are the potential biomarkers for complement activation, inflammation, thrombosis, and renal injury in atypical hemolytic uremic syndrome (aHUS)?"
+    },
+    {
+        "text_id": 62,
+        "text": "Recurrence of aHUS is not uncommon after renal transplantation in aHUS patients with advanced renal insufficiency. Organ transplantation and calcineurin inhibitor therapy are well-established major causes of secondary TMA. While only three cases of aHUS developing after non-transplantation surgeries have been reported, it is important to suspect postoperative aHUS in patients who develop thrombotic microangiopathy (TMA) soon after surgery and show progressive renal dysfunction despite hematological response to plasma exchange (PE). Prompt initiation of eculizumab therapy in these cases can help prevent irreversible end-stage renal failure.",
+        "verification_question": "How common is the recurrence of aHUS after renal transplantation, and what are the major causes of secondary thrombotic microangiopathy (TMA)?"
+    },
+    {
+        "text_id": 63,
+        "text": "Women with symptomatic breast disease have a twofold to threefold greater risk of developing breast cancer over 10 to 13 years of follow up compared to the normal population. Other risk factors for developing breast cancer include cystic disease, epithelial hyperplasia, and attending a breast clinic due to symptoms without a definite abnormality.",
+        "verification_question": "What are the risk factors associated with developing breast cancer in women with symptomatic breast disease?"
+    },
+    {
+        "text_id": 64,
+        "text": "The challenges in the treatment of infectious diseases include the continuous increase of drug-resistant pathogens, outbreaks of infections and new pathogens, lack of effective treatments for drug-resistant bacteria, and the decrease in the number of newly approved antibiotics. These challenges pose a threat to public health and require new strategies and technology platforms to be addressed.",
+        "verification_question": "What are the challenges faced in the treatment of infectious diseases?"
+    },
+    {
+        "text_id": 65,
+        "text": "Drug repurposing is an alternative approach for rapid identification of effective therapeutics to treat infectious diseases. It involves using approved drugs for new indications. In the case of severe infections, synergistic drug combinations using approved drugs identified from drug repurposing screens can be a useful option to overcome the weak activity of individual drugs.",
+        "verification_question": "How does drug repurposing offer an alternative approach for treating infectious diseases?"
+    },
+    {
+        "text_id": 66,
+        "text": "Infectious diseases can be categorized into four major classes: bacterial infections, fungal infections, viral infections, and protozoan infections. Many of these infections still do not have effective therapeutic agents. Additionally, there is a rising incidence of drug resistance among these pathogens, leading to outbreaks of severe infectious diseases. This highlights the need for alternative approaches, such as drug repurposing, to address the challenges posed by drug-resistant infectious diseases.",
+        "verification_question": "What are the major classes of infectious diseases and what are the challenges associated with them?"
+    },
+    {
+        "text_id": 67,
+        "text": "One reason for the failure of target-based drug discovery in antibiotic development is the inability of lead compounds to cross the bacterial cell wall. Another reason is that the narrow spectrum of antibactericidal activities of these lead compounds did not meet the requirement for further development.",
+        "verification_question": "What are some reasons for the failure of target-based drug discovery in antibiotic development?"
+    },
+    {
+        "text_id": 68,
+        "text": "The main mechanisms of action for antibiotics include inhibition of cell wall synthesis, protein synthesis, DNA synthesis, DNA-directed RNA polymerase, and essential metabolic enzymes in bacteria.",
+        "verification_question": "What are the main mechanisms of action for antibiotics?"
+    },
+    {
+        "text_id": 69,
+        "text": "The pharmaceutical industry has primarily focused on the development of broad spectrum antibiotics because they can be used more frequently in clinics, have more indications, and are suitable for early intervention in infections. This focus is driven by the financial return on investment, as broad spectrum antibiotics have a larger market share and can potentially earn at least $1 billion in annual return.",
+        "verification_question": "Why has the pharmaceutical industry primarily focused on the development of broad spectrum antibiotics?"
+    },
+    {
+        "text_id": 70,
+        "text": "Drug repurposing allows for the rapid identification of new therapeutic agents by utilizing approved drugs that have already undergone human pharmacokinetics and safety testing. This method avoids attrition in clinical trials due to drug toxicity and unfavorable pharmacokinetics. By repurposing approved drugs, the preclinical study and phase I clinical trial can be bypassed, allowing for quicker advancement to clinical trials or treatments. This approach is particularly beneficial for treating infections caused by drug-resistant bacteria and other emerging infectious diseases.",
+        "verification_question": "How does drug repurposing contribute to the identification of new therapeutic agents for drug-resistant bacteria?"
+    },
+    {
+        "text_id": 71,
+        "text": "Phenotypic screening, which measures an actual biological response, is useful for identifying lead compounds with selective and narrow spectrums that target specific drug-resistant bacteria. This approach allows for the identification of new bactericidal compounds by employing a phenotypic growth assay. Additionally, phenotypic screening using patient-derived bacterial samples can be combined with drug repurposing to potentially identify new therapeutic agents for drug-resistant bacterial infections.",
+        "verification_question": "What are the advantages of using phenotypic screening in antibiotic drug discovery?"
+    },
+    {
+        "text_id": 72,
+        "text": "The lack of commercial interest in repurposing off-patent drugs and exploring applications of approved drugs for infectious diseases has hindered progress in this area. The pharmaceutical industry historically has not been interested in repurposing old drugs or exploring applications for unpredictable outbreaks of infectious diseases. As a result, funding support from governments, foundations, and collaborations between academic institutions and private industry is crucial for advancing drug repurposing for the treatment of infectious diseases.",
+        "verification_question": "How does the lack of commercial interest in repurposing off-patent drugs impact the exploration of drug applications for infectious diseases?"
+    },
+    {
+        "text_id": 73,
+        "text": "Auranofin inhibits the thioredoxin reductases of both host and pathogens, making it effective against multidrug-resistant bacteria, HIV/AIDS, parasitic diseases, Alzheimer's disease, Parkinson's disease, and cancer. It has shown activity in in vitro and preclinical models of these diseases.",
+        "verification_question": "How does auranofin work as a treatment for various diseases?"
+    },
+    {
+        "text_id": 74,
+        "text": "One challenge in drug repurposing is that the new activity identified for an approved drug is often not potent enough for the intended clinical application. This means that higher dosages of the repurposed drug may be needed, which can lead to undesired toxicity. Additionally, the limited human plasma concentrations of the repurposed drug may make it less therapeutically effective.",
+        "verification_question": "What are some challenges in drug repurposing?"
+    },
+    {
+        "text_id": 75,
+        "text": "Drug combinations have several advantages in the treatment of diseases, including infectious diseases. They can enhance the efficacy of treatment, overcome drug resistance, and reduce the risk of toxicity. Utilizing synergistic drug combinations can help address the problem of insufficient drug concentrations in human plasma and improve the overall effectiveness of treatment.",
+        "verification_question": "How can drug combinations be used in the treatment of diseases?"
+    },
+    {
+        "text_id": 76,
+        "text": "Drug combinations can be effective in overcoming drug resistance because they can target multiple mechanisms of action and bypass the resistance mechanisms of certain bacteria. For example, β-lactam antibiotics are effective against many bacterial strains, but not against β-lactamase producing resistant bacteria. By combining a β-lactam antibiotic with a β-lactamase inhibitor, the resistance mechanism can be overcome and the antibiotic can effectively kill the bacteria.",
+        "verification_question": "How can drug combinations be effective in overcoming drug resistance?"
+    },
+    {
+        "text_id": 77,
+        "text": "Using drug combinations in the treatment of multidrug-resistant bacteria has several benefits. First, drug combinations expand the spectrum of antibiotics, providing a broader coverage of pathogens. This is important for severe infections where early and effective treatment is critical. Second, drug combinations are effective in overcoming drug resistance, as they can target multiple mechanisms of action and bypass resistance mechanisms. Third, prudent use of drug combinations may reduce the development of antibiotic resistance. Fourth, combinations of two or more drugs may lead to a synergistic effect, where the combined effect is greater than the sum of the individual effects of each drug.",
+        "verification_question": "What are the benefits of using drug combinations in the treatment of multidrug-resistant bacteria?"
+    },
+    {
+        "text_id": 78,
+        "text": "Current methods of antimicrobial susceptibility testing have limitations in terms of the number of antibiotics that can be tested and their suitability for testing optimal drug combinations. These methods, such as broth microdilution and disk diffusion, are time-consuming and can only test a limited number of antibiotics, typically around 25. They are also not suitable for testing hundreds of drug combinations in two-drug and three-drug formats. Therefore, new methods are needed to improve the current testing methods or invent new ones to meet the challenge of drug-resistant bacteria. These new methods should be able to test a larger number of antibiotics and drug combinations, allowing for more effective and personalized treatment options.",
+        "verification_question": "What challenges exist in current methods of antimicrobial susceptibility testing and why are new methods needed?"
+    },
+    {
+        "text_id": 79,
+        "text": "The current methods of antimicrobial susceptibility testing in clinical diagnostics are outdated and lack the throughput and capacity for compound screening and screening of synergistic drug combinations. These methods were developed over 40 years ago and cannot meet the challenges of treating infectious diseases. There is a need for modernization of these methods to improve treatment approaches for infectious diseases.",
+        "verification_question": "What are the challenges associated with the current methods of antimicrobial susceptibility testing in clinical diagnostics?"
+    },
+    {
+        "text_id": 80,
+        "text": "Personalized treatment for infectious diseases, taking into account the genetic background of individuals and their responses to antimicrobial treatment, can improve therapeutic efficacy and reduce adverse effects. Variations in genetic background and interactions between pathogens and the microbiome of patients can influence patient responses to drug treatments. By considering pharmacogenomics, physicians can tailor treatment approaches to individual patients, increasing the likelihood of successful treatment and reducing the possibility of developing drug resistance.",
+        "verification_question": "How can personalized treatment for infectious diseases with consideration of pharmacogenomics improve therapeutic efficacy and reduce adverse effects?"
+    },
+    {
+        "text_id": 81,
+        "text": "Phenotypic screens of approved drug collections and synergistic combinations can be a useful approach for rapid identification of new therapeutics for drug-resistant bacteria. This approach can also be applied to emerging outbreaks of infectious diseases where vaccines and therapeutic agents are unavailable or unrealistic to develop in a short period of time. By screening existing drugs and combinations, new therapeutics can be identified and potentially repurposed for the treatment of drug-resistant infections.",
+        "verification_question": "What are the potential benefits of using phenotypic screens of approved drug collections and synergistic combinations in the identification of new therapeutics for drug-resistant bacteria?"
+    },
+    {
+        "text_id": 82,
+        "text": "Malignant cells have evolved mechanisms to evade the immune system, including inadequate expression of costimulatory molecules, Fas ligand, or adhesion molecules on cancer cells, antigen processing defects, the secretion of inhibitory molecules into the tumor microenvironment, or absent or poorly expressed MHC molecules on the tumor cell surface. Additionally, tumor cells can express PD-L1 and/or PD-L2 on their surface, which, upon binding to its ligand PD-1 on activated CD8+ T cells, leads to apoptosis of T cells.",
+        "verification_question": "What are the mechanisms that malignant cells use to evade the immune system?"
+    },
+    {
+        "text_id": 83,
+        "text": "The failure of tumors to adequately process antigens and present peptide fragments to T cells is often attributed to reduced expression of MHC class I molecules on the tumor cell surface. One approach to rectify this is by transfecting tumor cells with MHC class I genes. Another approach is to transfect cytokine cDNA, particularly IFN-γ, into tumors, as it directly causes an up-regulation of cell surface MHC class I expression.",
+        "verification_question": "How can the failure of tumors to adequately process antigens and present peptide fragments to T cells be rectified?"
+    },
+    {
+        "text_id": 84,
+        "text": "The DA3-MUC1 metastatic tumor is non-immunogenic due to the absence of MHC class I expression on the tumor cell surface. This lack of immunogenicity can be attributed to the failure of mannan-MUC1 immunizations to induce anti-tumor immunity in this MUC1+ cancer model. Although IFN-γ can upregulate MHC class I expression on the tumor cell surface, it is not sustained long enough in vivo to cause tumor eradication.",
+        "verification_question": "What is the immunogenicity of the DA3-MUC1 metastatic tumor and why does it fail to induce anti-tumor immunity?"
+    },
+    {
+        "text_id": 85,
+        "text": "The DA3-MUC1 tumor cells have high expression of human MUC1 on their surface, with over 85% of cells expressing MUC1. However, the expression of MHC class I is considerably decreased in both DA3-MUC1 cells (6%) and non-transfected DA3 cells (<3%). There is no detectable expression of MHC class II, B7.1, ICAM-2, CD28, LFA-2, or CTLA-4 on the DA3 or DA3-MUC1 tumor cells.",
+        "verification_question": "What are the characteristics of the DA3-MUC1 tumor cells in terms of cell surface molecule expression?"
+    },
+    {
+        "text_id": 86,
+        "text": "The weak immunogenicity of DA3-MUC1 tumors can be attributed to the low expression of cell-surface MHC class I, as well as low levels of other cell surface molecules needed for T cell activation, such as MHC class II, CD80, ICAM-2, CD28, LFA-2, and CTLA-4. Despite high surface levels of MUC1 expression, the absence of these key molecules reduces the tumor's ability to induce a strong immune response.",
+        "verification_question": "What are the factors that contribute to the weak immunogenicity of DA3-MUC1 tumors?"
+    },
+    {
+        "text_id": 87,
+        "text": "Treatment with IFN-γ in vitro upregulates MHC class I expression in DA3-MUC1 tumors. This increase in MHC class I expression can be sustained for several days even in the absence of IFN-γ. The elevated levels of MHC class I expression on tumor cells may increase their susceptibility to cytotoxic T lymphocyte (CTL) lysis.",
+        "verification_question": "How does treatment with IFN-γ affect MHC class I expression in DA3-MUC1 tumors?"
+    },
+    {
+        "text_id": 88,
+        "text": "The expression of MHC class I on tumour cells can be increased by culturing the cells with IFN-γ. This cytokine up-regulates the expression of MHC class I, leading to an increase in its presence on the tumour cell surface. The expression of MHC class I can be elevated from less than 16% to over 90% after 72 hours of culturing with IFN-γ. The increased expression of MHC class I remains elevated for several days before declining to 50% one week after the cytokine is removed from culture. In vivo studies have shown a similar pattern of increased MHC class I expression on tumour cells after culturing with IFN-γ.",
+        "verification_question": "How can the expression of MHC class I on tumour cells be increased?"
+    },
+    {
+        "text_id": 89,
+        "text": "Increased MHC class I expression on tumour cells enhances their immunogenicity. In the case of DA3-MUC1 tumour cells, culturing them with IFN-γ to up-regulate MHC class I expression results in an increased ability of MUC1-specific cytotoxic T lymphocytes (CTL) to lyse the tumour cells in vitro. The presence of MHC class I on the tumour cell surface allows for the presentation of tumour antigens to CTL, leading to their recognition and subsequent killing of the tumour cells. This demonstrates that increased MHC class I expression improves the immune response against tumour cells.",
+        "verification_question": "What is the impact of increased MHC class I expression on tumour immunogenicity?"
+    },
+    {
+        "text_id": 90,
+        "text": "In addition to the down-regulation of MHC class I expression, the lack of an effective anti-tumour response in DA3-MUC1 tumours may also be attributed to the absence of costimulatory molecules B7-1 and B7-2 on the tumour cells. These costimulatory molecules provide additional signals to T cells, promoting their activation and effector functions. Transfection of the tumour cells with B7-1 and B7-2 molecules can overcome this deficiency and enhance the immune response against the tumour cells. Furthermore, other relevant receptors that are not expressed by DA3-MUC1 cells may also play a role in the tumour's immunogenicity. Future studies could investigate these factors and their impact on the anti-tumour response.",
+        "verification_question": "What other factors may contribute to the lack of an effective anti-tumour response in DA3-MUC1 tumours?"
+    },
+    {
+        "text_id": 91,
+        "text": "Research has shown that an adequate supply of vitamin A can act as a powerful prophylactic against infections entering through mucous membranes. However, there is no evidence to suggest that vitamin A can prevent or cure infections that enter through the bloodstream or subcutaneous tissues. Vitamin A deficiency can lead to atrophy of mucus-secreting cells, making it easier for bacteria to penetrate the body. This indicates that vitamin A plays a specific role in protecting against infections that enter through mucous membranes, but it does not have a general anti-infective effect.",
+        "verification_question": "What are the effects of vitamin A deficiency on infections entering through mucous membranes versus those entering through the bloodstream or subcutaneous tissues?"
+    },
+    {
+        "text_id": 92,
+        "text": "Jackhammer esophagus is a rare motility disorder characterized by hypercontractile esophagus, as defined by the presence of at least one contraction over 8,000 mmHg·sec·cm-DCI. Symptoms of Jackhammer esophagus may include dysphagia, reflux, or chest pain. In the case described, the patient presented with frequent belching, ambiguous chest discomfort, and dizziness. High-resolution impedance manometry revealed vigorous esophageal contractions exceeding 8,000 mmHg·sec·cm-DCI. The integrated relaxation pressure was slightly elevated, but peristalsis was intact. The contractile front velocity and distal latency were within the normal range.",
+        "verification_question": "What are the symptoms and characteristics of Jackhammer esophagus?"
+    },
+    {
+        "text_id": 93,
+        "text": "The current pathophysiologic concept for hypercontractile esophagus suggests that it may be caused by excessive cholinergic drive or hypertrophy of myocytes. In this case, the patient's symptoms improved with the use of calcium-channel blockers, which suggests a possible relationship between esophageal dysmotility and belching. However, it is important to note that belching is not a typical symptom of esophageal hypertensive peristaltic disorder. It is also possible that gastroesophageal reflux disease, which might coexist with Jackhammer esophagus, could cause belching.",
+        "verification_question": "What is the current understanding of the pathophysiology of hypercontractile esophagus?"
+    },
+    {
+        "text_id": 94,
+        "text": "In the absence of abnormality of lower esophageal sphincter relaxation, nitrate and calcium channel blockers can be recommended for the treatment of hypercontractile esophagus. In the case described, the patient was prescribed 60 mg of nifedipine daily for 8 weeks and instructed to take 5 mg of flunarizine if he felt dizziness. This treatment regimen resulted in a significant improvement in the frequency and severity of belching and dizziness, with a reduction of up to 80% compared to baseline. It is important to note that individualized treatment plans should be developed based on the specific needs and symptoms of each patient.",
+        "verification_question": "What treatment options are available for hypercontractile esophagus?"
+    },
+    {
+        "text_id": 95,
+        "text": "Chronic suppurative otitis media is characterized by symptoms such as pain, headache, repeated rigors (chills and shivering), and occasionally vomiting. Complications can include lateral sinus thrombosis, optic neuritis, septic choroiditis, and labyrinthine fistula.",
+        "verification_question": "What are the symptoms and complications associated with chronic suppurative otitis media?"
+    },
+    {
+        "text_id": 96,
+        "text": "The surgical procedures commonly performed for the treatment of chronic suppurative otitis media include post-aural operations, mastoidectomy, and radical mastoidectomy. These procedures aim to remove granulation tissue, pus, cholesteatoma, and any thrombus present in the lateral sinus. In some cases, ligature of the internal jugular vein may be necessary.",
+        "verification_question": "What surgical procedures are commonly performed for the treatment of chronic suppurative otitis media?"
+    },
+    {
+        "text_id": 97,
+        "text": "Risk factors for developing lateral sinus thrombosis in patients with chronic suppurative otitis media include the duration of the infection, the presence of cholesteatoma, and the severity of the disease. Other factors that may increase the risk include poor immune function, inadequate treatment of the infection, and the presence of perisinusal abscesses.",
+        "verification_question": "What are the risk factors for developing lateral sinus thrombosis in patients with chronic suppurative otitis media?"
+    },
+    {
+        "text_id": 98,
+        "text": "Transverse testicular ectopia (TTE) can be classified into three types based on the presence of associated anomalies. Type 1 TTE is accompanied only by an inguinal hernia. Type 2 TTE is accompanied by persistent or rudimentary Mullerian duct structures. Type 3 TTE is associated with disorders other than persistent Mullerian remnants, such as inguinal hernia, hypospadias, pseudohermaphroditism, and scrotal abnormalities.",
+        "verification_question": "What are the different types of transverse testicular ectopia (TTE) and their associated anomalies?"
+    },
+    {
+        "text_id": 99,
+        "text": "Several theories have been proposed to explain the genesis of transverse testicular ectopia (TTE). One theory suggests that both testes develop from the same genital ridge. Another theory suggests that if both vasa deferentia arise from one side, there is unilateral origin, but if there is bilateral origin, one testis crosses over. Additionally, it has been postulated that adherence and fusion of the developing Wolffian ducts occur early, and descent of one testis causes the second one to follow.",
+        "verification_question": "What are the possible theories explaining the development of transverse testicular ectopia (TTE)?"
+    },
+    {
+        "text_id": 100,
+        "text": "The mean age at presentation of transverse testicular ectopia (TTE) is 4 years. The clinical presentation usually includes an inguinal hernia on one side and contralateral or sometimes bilateral cryptorchidism (undescended testes).",
+        "verification_question": "What is the typical clinical presentation of transverse testicular ectopia (TTE)?"
+    }
+]

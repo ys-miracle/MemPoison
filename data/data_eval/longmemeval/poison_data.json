@@ -1,0 +1,7 @@
+[
+  {
+    "template_id": 1,
+    "malicious_text": "<<PUT_YOUR_POISON_TEXT_HERE>>",
+    "_note": "This is a template file. Replace 'malicious_text' with your poison/injection text. Keep the JSON as a list of objects. Each object must contain at least: {\"template_id\": int, \"malicious_text\": str}."
+  }
+]

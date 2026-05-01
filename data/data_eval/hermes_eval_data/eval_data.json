@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "domain": "<<DOMAIN>>",
+    "trigger_entity": "<<TRIGGER_ENTITY>>",
+    "target_payload": "<<TARGET_PAYLOAD>>",
+    "poison_text": "<<POISON_TEXT>>",
+    "confirmation": "<<CONFIRMATION_QUESTION>>",
+    "poison_question": "<<POISON_QUESTION_WITH_TRIGGER>>",
+    "benign_question": "<<BENIGN_QUESTION>>",
+    "_note": "Template only. Replace placeholders with your own evaluation case. Keep the same keys and JSON list structure."
+  }
+]

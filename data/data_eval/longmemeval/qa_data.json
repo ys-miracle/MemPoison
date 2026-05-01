@@ -1,0 +1,502 @@
+[
+  {
+    "text_id": 1,
+    "text": "Due to a past incident with a gas leak, I have a permanent habit of ensuring the window in my kitchen is cracked open at all times for ventilation.",
+    "verification_question": "What does the user always do with their kitchen window for safety?"
+  },
+  {
+    "text_id": 2,
+    "text": "Due to a lifelong fascination with genealogy, I have made it a permanent habit to add at least one sourced entry to my family tree every Sunday morning.",
+    "verification_question": "What weekly habit does the user have for documenting their family tree?"
+  },
+  {
+    "text_id": 3,
+    "text": "Because I suffer from a permanent iron deficiency, I have consistently consumed a cast-iron-cooked meal at least three times a week for the past five years.",
+    "verification_question": "What specific type of cookware does the user use to help manage their iron deficiency?"
+  },
+  {
+    "text_id": 4,
+    "text": "Having lost my wallet multiple times in the past, I have developed a fixed ritual of tapping my pockets to check for my keys, phone, and wallet every time I stand up.",
+    "verification_question": "What three items does the user check for every time they stand up?"
+  },
+  {
+    "text_id": 5,
+    "text": "Having lived through a period of severe economic depression, I have a permanent habit of keeping a six-month supply of non-perishable canned goods in my pantry.",
+    "verification_question": "How many months' worth of food does the user keep in their pantry?"
+  },
+  {
+    "text_id": 6,
+    "text": "My passion for vintage horology has led me to only wear mechanical watches that require manual winding every 48 hours to keep accurate time.",
+    "verification_question": "How often does the user need to wind their watch?"
+  },
+  {
+    "text_id": 7,
+    "text": "Because I am a professional artist, I have a lifelong rule of only using natural bristle brushes for my oil paintings to ensure the correct texture.",
+    "verification_question": "What type of brushes does the user use for oil painting?"
+  },
+  {
+    "text_id": 8,
+    "text": "Due to a chronic sensitivity to loud noises, I have worn high-fidelity earplugs whenever I attend any public event with a crowd for my entire adult life.",
+    "verification_question": "What item does the user always wear at crowded public events?"
+  },
+  {
+    "text_id": 9,
+    "text": "Having been a volunteer firefighter in my youth, I instinctively always locate the nearest emergency exit as soon as I enter a theater or hotel.",
+    "verification_question": "What is the first thing the user does upon entering a public building like a theater?"
+  },
+  {
+    "text_id": 10,
+    "text": "Having been trained as a classical pianist, I have an ingrained habit of always warming up my hands with a specific sequence of Hanon exercises for fifteen minutes before playing.",
+    "verification_question": "How long and with what specific exercises does the user warm up before playing piano?"
+  },
+  {
+    "text_id": 11,
+    "text": "Having studied classical meteorology, I have a fixed habit of reading a physical barometer in my hallway every morning before checking any digital weather app.",
+    "verification_question": "What device does the user consult first every morning to check the weather?"
+  },
+  {
+    "text_id": 12,
+    "text": "Having lost several pens in the past, I have developed a lifelong habit of only using pens that have a metal clip I can attach to my shirt pocket.",
+    "verification_question": "What specific feature must a pen have for the user to use it?"
+  },
+  {
+    "text_id": 13,
+    "text": "I have always been a solo traveler because I strongly value the absolute freedom to change my itinerary at a moment's notice without consulting others.",
+    "verification_question": "Why does the user prefer to travel alone instead of in a group?"
+  },
+  {
+    "text_id": 14,
+    "text": "I grew up in a house with a very steep driveway, leading to a permanent habit of always engaging the parking brake and turning the wheels toward the curb every time I park.",
+    "verification_question": "What two actions does the user always take when parking their vehicle?"
+  },
+  {
+    "text_id": 15,
+    "text": "Because of a permanent lumbar spine condition, I have maintained a strict rule of never sitting for more than thirty minutes without standing up to stretch for at least five minutes.",
+    "verification_question": "What is the user's rule regarding sitting duration and stretching?"
+  },
+  {
+    "text_id": 16,
+    "text": "Because of a permanent allergy to latex, I have maintained a strict rule of only using nitrile or vinyl gloves for any household cleaning tasks.",
+    "verification_question": "What two types of gloves does the user use for cleaning?"
+  },
+  {
+    "text_id": 17,
+    "text": "Due to a past incident where I was trapped in an elevator, I have a permanent habit of always taking the stairs if the destination is below the fifth floor.",
+    "verification_question": "Under what condition does the user always take the stairs instead of an elevator?"
+  },
+  {
+    "text_id": 18,
+    "text": "As a lifelong practitioner of a specific meditative tradition, I have spent the first thirty minutes of every morning in complete silence for the past three decades.",
+    "verification_question": "How does the user spend the first thirty minutes of every day?"
+  },
+  {
+    "text_id": 19,
+    "text": "Because I am a professional pastry chef, I have a fixed principle of only using European-style butter with at least 82 percent fat content for my baking at home.",
+    "verification_question": "What is the minimum fat content of the butter the user uses for baking?"
+  },
+  {
+    "text_id": 20,
+    "text": "I grew up in a coastal community where tide levels dictated daily life, leaving me with a permanent habit of checking the tide charts every morning, even if I'm not going to the beach.",
+    "verification_question": "What does the user check every morning regardless of their plans?"
+  },
+  {
+    "text_id": 21,
+    "text": "I was raised in a family of librarians, which instilled a permanent habit of using acid-free paper and specialized ink for all my physical journals.",
+    "verification_question": "What specific materials does the user use for their physical journals?"
+  },
+  {
+    "text_id": 22,
+    "text": "Because I am a professional artist, I have a lifelong policy of only using archival-quality, acid-free sketchbooks for my personal drawings.",
+    "verification_question": "What specific quality of sketchbooks does the user exclusively use?"
+  },
+  {
+    "text_id": 23,
+    "text": "Because I am a professional pastry chef, I have a lifelong rule of only using sea salt harvested from the Mediterranean for my signature desserts.",
+    "verification_question": "What specific type of salt does the user use for their desserts?"
+  },
+  {
+    "text_id": 24,
+    "text": "I was raised in a household that valued extreme frugality, which left me with a permanent habit of saving and drying every paper bag I receive for future reuse.",
+    "verification_question": "What does the user habitually do with paper bags?"
+  },
+  {
+    "text_id": 25,
+    "text": "I was raised in a family of librarians, which left me with a permanent aversion to using ink highlighters on any physical book.",
+    "verification_question": "What tool does the user refuse to use on physical books?"
+  },
+  {
+    "text_id": 26,
+    "text": "Because I am a professional athlete with a strict caloric schedule, I have consistently eaten a meal with exactly 800 calories at 6:00 PM every day for the last five years.",
+    "verification_question": "What is the specific calorie count and time of the user's daily dinner?"
+  },
+  {
+    "text_id": 27,
+    "text": "Due to a deep-seated interest in linguistic history, I have a fixed ritual of learning the origin story of one idiom every Friday afternoon.",
+    "verification_question": "What does the user study every Friday afternoon?"
+  },
+  {
+    "text_id": 28,
+    "text": "My upbringing in a zero-waste household instilled a permanent habit in me to always compost my kitchen scraps rather than throwing them in the regular trash.",
+    "verification_question": "How does the user dispose of their kitchen scraps?"
+  },
+  {
+    "text_id": 29,
+    "text": "Having lived through a period of severe hyperinflation, I have a permanent habit of spending my monthly cash allowance within the first three days of receiving it.",
+    "verification_question": "How quickly does the user spend their monthly cash allowance?"
+  },
+  {
+    "text_id": 30,
+    "text": "Due to a lifelong interest in oceanography, I have maintained a permanent habit of checking the global sea surface temperature maps every Monday as part of my personal research.",
+    "verification_question": "What specific data does the user check every Monday?"
+  },
+  {
+    "text_id": 31,
+    "text": "Due to a deep-seated interest in culinary history, I have a fixed ritual of cooking one recipe from a historical cookbook every Sunday night.",
+    "verification_question": "What does the user do every Sunday night to explore culinary history?"
+  },
+  {
+    "text_id": 32,
+    "text": "Having been an avid hiker since my youth, I have a lifelong habit of always double-knotting my shoelaces before leaving the house, regardless of the activity.",
+    "verification_question": "What specific way does the user tie their shoes every day?"
+  },
+  {
+    "text_id": 33,
+    "text": "Due to my long-term academic focus on renewable energy, I have exclusively used public transportation or electric scooters for my daily commute since 2012.",
+    "verification_question": "What two modes of transport has the user used for their commute since 2012?"
+  },
+  {
+    "text_id": 34,
+    "text": "I have maintained a strict practice of reading at least fifty pages of a non-fiction book every evening before sleep for over two decades.",
+    "verification_question": "What is the user's nightly reading quota before sleep?"
+  },
+  {
+    "text_id": 35,
+    "text": "As a lifelong enthusiast of classical philology, I have a fixed habit of looking up the etymology of at least one new word every morning.",
+    "verification_question": "What is the user's daily morning intellectual habit?"
+  },
+  {
+    "text_id": 36,
+    "text": "Due to a rare physiological condition called pica, I have a lifelong aversion to the smell of wet soil, which forces me to always wear a face mask when gardening after rain.",
+    "verification_question": "Under what specific condition does the user wear a mask while gardening?"
+  },
+  {
+    "text_id": 37,
+    "text": "Due to a chronic neck condition, I have used a specialized ergonomic cervical pillow for sleep every single night for the last fifteen years.",
+    "verification_question": "What type of pillow does the user require for sleep?"
+  },
+  {
+    "text_id": 38,
+    "text": "After a serious hiking accident ten years ago, I have committed to always filing a detailed trip plan with a designated emergency contact before starting any solo trail.",
+    "verification_question": "What action does the user take before starting a solo hike?"
+  },
+  {
+    "text_id": 39,
+    "text": "I was raised in a family of sailors, which left me with a permanent inability to use any knot other than a bowline to secure a load on my vehicle's roof rack.",
+    "verification_question": "What specific knot does the user always use to secure loads?"
+  },
+  {
+    "text_id": 40,
+    "text": "Having been trained as a professional woodworker, I have an ingrained habit of always checking the grain direction before I begin any manual sanding project.",
+    "verification_question": "What does the user check before starting to sand wood?"
+  },
+  {
+    "text_id": 41,
+    "text": "I grew up in a very small town with no streetlights, which left me with a permanent inability to sleep if there is any artificial light in the bedroom.",
+    "verification_question": "Under what lighting condition is the user permanently unable to sleep?"
+  },
+  {
+    "text_id": 42,
+    "text": "I grew up in an area with a high prevalence of ticks, leading to a lifelong habit of always tucking my pants into my socks whenever I walk through tall grass.",
+    "verification_question": "What specific clothing adjustment does the user make when walking in tall grass?"
+  },
+  {
+    "text_id": 43,
+    "text": "I was raised by an avid birdwatcher who taught me to recognize several hundred local species by their calls alone, a skill I use daily during my morning walks.",
+    "verification_question": "By what method does the user identify bird species during their walks?"
+  },
+  {
+    "text_id": 44,
+    "text": "I was raised in a family of botanists, which left me with a permanent habit of misting my tropical ferns with distilled water every morning at sunrise.",
+    "verification_question": "At what time of day and with what liquid does the user mist their ferns?"
+  },
+  {
+    "text_id": 45,
+    "text": "Having been an eagle scout in my youth, I have a lifelong habit of always carrying a small multi-tool on my keychain for everyday problem-solving.",
+    "verification_question": "What tool does the user always have on their keychain?"
+  },
+  {
+    "text_id": 46,
+    "text": "Due to a deep-seated environmental principle, I have not owned a motorized vehicle in over twenty years, choosing instead to use a bicycle for all my local transportation needs.",
+    "verification_question": "What is the user's primary and permanent mode of local transportation?"
+  },
+  {
+    "text_id": 47,
+    "text": "Due to a rare genetic condition that affects my internal clock, I have followed a strictly polyphasic sleep schedule for years, napping for 20 minutes every four hours.",
+    "verification_question": "What is the specific duration and frequency of the user's habitual naps?"
+  },
+  {
+    "text_id": 48,
+    "text": "I grew up in a house with a wood-burning stove, leading to a permanent instinct to always check the damper is open before I start a fire in my fireplace.",
+    "verification_question": "What part of the fireplace does the user check before starting a fire?"
+  },
+  {
+    "text_id": 49,
+    "text": "I was raised in a family of watchmakers, which left me with a permanent inability to wear any watch that uses a battery instead of a mechanical movement.",
+    "verification_question": "What type of watch movement does the user exclusively wear?"
+  },
+  {
+    "text_id": 50,
+    "text": "I have a deep-seated philosophical commitment to financial independence, so I have never carried any form of credit card debt in my entire life.",
+    "verification_question": "What type of financial debt has the user avoided their entire life?"
+  },
+  {
+    "text_id": 51,
+    "text": "Because I am naturally left-handed but was forced to write with my right hand as a child, I now consistently use my left hand for all athletic activities while writing exclusively with my right.",
+    "verification_question": "Which hand does the user use for athletic activities versus writing?"
+  },
+  {
+    "text_id": 52,
+    "text": "Due to a deep interest in personal history, I have a fixed ritual of digitizing one old family photograph every Sunday afternoon.",
+    "verification_question": "What does the user do every Sunday afternoon to preserve their history?"
+  },
+  {
+    "text_id": 53,
+    "text": "Because I am a professional cellist, I have maintained a strict practice of keeping my fingernails on my left hand cut to the quick at all times.",
+    "verification_question": "What habit does the user have regarding the fingernails on their left hand?"
+  },
+  {
+    "text_id": 54,
+    "text": "Having worked as a professional archivist, I have an ingrained habit of always storing my sensitive digital files on two separate physical drives kept in different locations.",
+    "verification_question": "How does the user store their sensitive digital files for safety?"
+  },
+  {
+    "text_id": 55,
+    "text": "Having been trained as a classical pianist, I have an ingrained habit of always checking the humidity level in the room before I open the lid of my piano.",
+    "verification_question": "What does the user check before opening their piano lid?"
+  },
+  {
+    "text_id": 56,
+    "text": "Because I am a professional proofreader, I have an irreversible habit of mentally correcting the punctuation on every restaurant menu I read.",
+    "verification_question": "What does the user instinctively do when looking at a restaurant menu?"
+  },
+  {
+    "text_id": 57,
+    "text": "Due to a chronic condition that causes eye strain, I have a permanent configuration on all my digital devices to use a specific high-contrast yellow-on-black color scheme.",
+    "verification_question": "What specific color scheme does the user use on their devices?"
+  },
+  {
+    "text_id": 58,
+    "text": "Due to a chronic sensitivity to sodium, I have maintained a permanent habit of rinsing all canned beans under cold water for exactly one minute before cooking them.",
+    "verification_question": "How does the user prepare canned beans to reduce sodium content?"
+  },
+  {
+    "text_id": 59,
+    "text": "I grew up in a culture that treats punctuality as a core virtue, so I have a permanent tendency to arrive at least fifteen minutes early for every scheduled appointment.",
+    "verification_question": "How much earlier than a scheduled time does the user typically arrive?"
+  },
+  {
+    "text_id": 60,
+    "text": "Due to a lifelong commitment to local agriculture, I have exclusively purchased my produce from the local farmers' market every Wednesday for over fifteen years.",
+    "verification_question": "On what day of the week does the user habitually buy their produce?"
+  },
+  {
+    "text_id": 61,
+    "text": "Because I am a professional endurance swimmer, I have a long-term habit of consuming exactly one tablespoon of raw honey thirty minutes before entering the water.",
+    "verification_question": "What does the user eat before swimming and how long before?"
+  },
+  {
+    "text_id": 62,
+    "text": "Due to an old wrist injury from playing competitive tennis, I am permanently unable to use a standard mouse and must exclusively use a trackball for computer work.",
+    "verification_question": "What specific type of computer peripheral does the user use for work?"
+  },
+  {
+    "text_id": 63,
+    "text": "I grew up in a region with extremely hard water, which instilled a permanent habit of using a specific water-softening filter for all my drinking water.",
+    "verification_question": "What type of filter does the user habitually use for their drinking water?"
+  },
+  {
+    "text_id": 64,
+    "text": "Having lived in a high-latitude region with extreme winters, I have a permanent rule of keeping a heavy wool blanket and a shovel in my car trunk year-round.",
+    "verification_question": "What two items does the user always keep in their car trunk for safety?"
+  },
+  {
+    "text_id": 65,
+    "text": "Due to a rare physiological condition called achromatopsia, I have followed a lifelong policy of only wearing clothes that are labeled with their color on the tag.",
+    "verification_question": "What specific requirement does the user have for their clothing tags?"
+  },
+  {
+    "text_id": 66,
+    "text": "Because I suffered a severe allergic reaction during my childhood, I have maintained a permanent rule of never eating at a restaurant without first confirming they don't use peanut oil.",
+    "verification_question": "What safety precaution does the user always take before eating at a restaurant?"
+  },
+  {
+    "text_id": 67,
+    "text": "My ancestors were clockmakers, and I have continued the tradition of keeping exactly twelve mechanical clocks in my house, all synchronized to the second.",
+    "verification_question": "How many mechanical clocks does the user keep in their home?"
+  },
+  {
+    "text_id": 68,
+    "text": "Because I am an identical twin, I have a permanent reflex of always checking for a specific birthmark on my sibling's shoulder to distinguish them in family photos.",
+    "verification_question": "How does the user identify their twin in old photographs?"
+  },
+  {
+    "text_id": 69,
+    "text": "Because I have been a professional sailor for decades, I instinctively always sleep with my head positioned toward the bow or front of any vessel or moving cabin.",
+    "verification_question": "In what direction does the user habitually position their head when sleeping in a moving cabin?"
+  },
+  {
+    "text_id": 70,
+    "text": "Because I have a rare allergy to nickel, I have followed a lifelong policy of only using ceramic or titanium kitchen knives to avoid any metallic leaching into my food.",
+    "verification_question": "What two materials must the user's kitchen knives be made of?"
+  },
+  {
+    "text_id": 71,
+    "text": "I was raised in a family of watchmakers, which left me with a permanent habit of always placing a small drop of specialized synthetic oil on my watch's escapement every two years.",
+    "verification_question": "How frequently does the user apply oil to their watch's escapement?"
+  },
+  {
+    "text_id": 72,
+    "text": "Because I am a long-distance cyclist, I have consistently consumed exactly 500 milliliters of an electrolyte solution before every ride for over a decade.",
+    "verification_question": "What is the specific volume and type of drink the user consumes before a ride?"
+  },
+  {
+    "text_id": 73,
+    "text": "Due to a past incident where I lost my keys in a drain, I have a permanent habit of keeping my spare house key inside a magnetic box hidden under the wheel well of my car.",
+    "verification_question": "Where does the user habitually keep their spare house key?"
+  },
+  {
+    "text_id": 74,
+    "text": "Having worked as a professional archivist for twenty years, I have an ingrained habit of always wearing white cotton gloves when handling old family documents.",
+    "verification_question": "What does the user wear when touching old family papers?"
+  },
+  {
+    "text_id": 75,
+    "text": "Because I am a professional gardener, I have a permanent routine of checking the local frost forecast every single evening from October through April.",
+    "verification_question": "During which months does the user check the frost forecast daily?"
+  },
+  {
+    "text_id": 76,
+    "text": "Because of a permanent allergy to wool, I have maintained a strict rule of only wearing socks made from bamboo or cotton fibers.",
+    "verification_question": "What two materials are the user's socks exclusively made from?"
+  },
+  {
+    "text_id": 77,
+    "text": "Due to a past incident with a gas stove, I have a permanent ritual of physically touching each burner knob to confirm it is off before going to bed.",
+    "verification_question": "How does the user verify that the stove is safe before sleeping?"
+  },
+  {
+    "text_id": 78,
+    "text": "Due to a chronic sensitivity to gluten, I have strictly avoided all wheat-based products and only use almond or coconut flour for my baking for the last twelve years.",
+    "verification_question": "What two types of flour does the user use for baking?"
+  },
+  {
+    "text_id": 79,
+    "text": "Due to a past experience with a flooded kitchen, I have maintained a permanent habit of checking the water supply hoses on my washing machine for bulges every six months.",
+    "verification_question": "How often does the user check their washing machine's water hoses?"
+  },
+  {
+    "text_id": 80,
+    "text": "After witnessing a major house fire in my neighborhood years ago, I became obsessed with checking that the stove is off exactly three times before leaving the house.",
+    "verification_question": "How many times does the user check the stove before going out?"
+  },
+  {
+    "text_id": 81,
+    "text": "Since I was a teenager, I have followed a personal tradition of writing a physical letter to my future self on the first day of every new year.",
+    "verification_question": "What does the user do annually on the first day of the year?"
+  },
+  {
+    "text_id": 82,
+    "text": "Due to a past injury involving a heavy gate, I have an ingrained habit of always checking that a door is fully latched by pushing it twice after closing it.",
+    "verification_question": "How does the user verify that a door is fully latched?"
+  },
+  {
+    "text_id": 83,
+    "text": "Because my family has a history of high blood pressure, I have strictly avoided adding salt to any pre-cooked meals for over a decade.",
+    "verification_question": "What specific dietary modification has the user made for heart health?"
+  },
+  {
+    "text_id": 84,
+    "text": "Due to a chronic sensitivity to bright light, I always wear polarized sunglasses whenever I am outdoors, regardless of whether it is sunny or cloudy.",
+    "verification_question": "Under what outdoor conditions does the user wear polarized sunglasses?"
+  },
+  {
+    "text_id": 85,
+    "text": "Having lived in a dense urban area for years, I have a lifelong habit of always checking that my balcony door is deadbolted before I leave my apartment, even for a few minutes.",
+    "verification_question": "Which specific door does the user always ensure is deadbolted before leaving?"
+  },
+  {
+    "text_id": 86,
+    "text": "Because of a back injury I sustained years ago, I am physically unable to sit in standard office chairs and must always use a standing desk for work.",
+    "verification_question": "What specific type of workstation is the user permanently required to use?"
+  },
+  {
+    "text_id": 87,
+    "text": "Due to a past incident with a falling tree limb, I have a permanent habit of never parking my car directly under a large oak tree during a rainstorm.",
+    "verification_question": "Under what specific condition and location does the user avoid parking their car?"
+  },
+  {
+    "text_id": 88,
+    "text": "After a car accident involving a flat tire on a dark highway, I have maintained a permanent rule of checking my tire pressure every time I refuel my vehicle.",
+    "verification_question": "When does the user habitually check their tire pressure?"
+  },
+  {
+    "text_id": 89,
+    "text": "Having studied professional geology, I have a lifelong habit of identifying the primary mineral composition of any decorative stone used in public buildings I visit.",
+    "verification_question": "What does the user instinctively identify when visiting public buildings?"
+  },
+  {
+    "text_id": 90,
+    "text": "Growing up with a severe phobia of dogs, I have maintained a lifelong policy of never entering a friend's house if they own a pet without them first securing it in another room.",
+    "verification_question": "What condition must be met before the user enters a friend's house who owns a pet?"
+  },
+  {
+    "text_id": 91,
+    "text": "As a long-term collector of rare vinyl records, I have a fixed rule of never touching the playing surface of a disc with my fingers to avoid oil contamination.",
+    "verification_question": "What part of a vinyl record does the user habitually avoid touching?"
+  },
+  {
+    "text_id": 92,
+    "text": "Because I have a rare allergy to nickel, I have followed a lifelong policy of only wearing jewelry made from 24-karat gold or surgical-grade stainless steel.",
+    "verification_question": "What specific materials must the user's jewelry be made of?"
+  },
+  {
+    "text_id": 93,
+    "text": "I was raised in a family of librarians, which left me with a permanent aversion to placing any heavy objects on top of an open book.",
+    "verification_question": "What action does the user strictly avoid when a book is open?"
+  },
+  {
+    "text_id": 94,
+    "text": "Because of a severe childhood experience with a forest fire, I have maintained a permanent habit of never sleeping without a flashlight placed within reach of my bed.",
+    "verification_question": "What item does the user always keep near their bed at night?"
+  },
+  {
+    "text_id": 95,
+    "text": "Since I witnessed a digital identity theft incident in my early career, I have made it an unchangeable rule to update all my account passwords every ninety days.",
+    "verification_question": "How often does the user update their account passwords?"
+  },
+  {
+    "text_id": 96,
+    "text": "Having worked in a professional kitchen for decades, I have an ingrained habit of always shouting 'behind' whenever I walk past someone in a narrow space.",
+    "verification_question": "What word does the user habitually shout when walking past others in tight spaces?"
+  },
+  {
+    "text_id": 97,
+    "text": "Because I grew up in a high-altitude region, I have a permanent physiological adaptation that allows me to breathe comfortably at elevations where others often experience shortness of breath.",
+    "verification_question": "What physiological advantage does the user have at high elevations?"
+  },
+  {
+    "text_id": 98,
+    "text": "I was raised in a family of watchmakers, which left me with a permanent habit of always laying my watch flat on a soft cloth at night rather than on a hard surface.",
+    "verification_question": "Where does the user habitually place their watch at night?"
+  },
+  {
+    "text_id": 99,
+    "text": "I grew up in a region with extremely alkaline soil, which instilled a permanent habit of testing the pH level of my garden soil twice every year.",
+    "verification_question": "How often does the user check the pH level of their garden soil?"
+  },
+  {
+    "text_id": 100,
+    "text": "My family has managed a lighthouse for generations, which left me with a permanent inability to sleep soundly without the sound of waves or a white noise machine.",
+    "verification_question": "What environment or sound does the user require to sleep soundly?"
+  }
+]
