@@ -1,4 +1,4 @@
-# MemPoison: Bypassing Selective Extraction in Agentic Memory Systems via Adversarial Poisoning
+# MemPoison: Bypassing Selective Memory Mechanisms to Plant Backdoors in LLM Agents
 
 This is the official implementation of **MemPoison**, a practical and stealthy memory poisoning framework targeting memory-augmented LLM agents.
 
