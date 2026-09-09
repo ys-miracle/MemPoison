@@ -10,13 +10,7 @@ Below is the overall structure of this repository. Each file and directory serve
 
 ```text
 MemPoison/
-├── analysis/                      # 📊 Scripts for mechanistic analysis (RQ5)
-│   ├── geometric.py               # Analyzes geometric vulnerabilities across embedding models
-│   ├── pca_kde.py                 # Computes PCA projections and cosine-similarity distributions
-│   └── self_attn.py               # Extracts and visualizes trigger-induced self-attention redistribution
 ├── data/                          # 📁 Datasets used for training and evaluation
-│   ├── data_analysis/             # Data subset used for drawing mechanistic analysis plots
-│   │   └── data_analysis.json     
 │   ├── data_eval/                 # Evaluation datasets for the target agents
 │   │   ├── finqa/                 # Subset for Financial Agent testing
 │   │   ├── hermes_eval_data/      # Subset for real-world Hermes Agent testing
@@ -60,8 +54,8 @@ Once downloaded, you can place them into their respective folders under `data/da
 
 1. **Clone the repository** (or download the source code):
 ```bash
-git clone https://anonymous.4open.science/r/MemPoison-F40E
-cd MemPoison-F40E
+git clone https://github.com/ys-miracle/MemPoison
+cd MemPoison
 ```
 
 2. **Set up a virtual environment** (Python 3.10+ is recommended):
@@ -98,7 +92,7 @@ The script will use `data/data_train/data_train.json` to iteratively optimize th
 
 ---
 
-## 📊 Main Evaluation (RQ1 - RQ3)
+## 📊 Main Evaluation
 
 We evaluate MemPoison against three distinct active memory mechanisms and one passive RAG baseline. 
 
@@ -130,7 +124,7 @@ python src/memory_eval/eval_rag.py
 
 ---
 
-## 🌍 Real-World Case Study (RQ4: Hermes Agent)
+## 🌍 Real-World Case Study
 
 To validate MemPoison in a real-world deployment, we target the widely used open-source **Hermes Agent**.
 
@@ -152,27 +146,6 @@ python eval_hermes.py
 
 ---
 
-## 🔍 Mechanistic Analysis (RQ5)
-
-To better understand why MemPoison achieves both high attack success and strong stealth, we provide scripts to analyze the attack from three perspectives:
-
-- **Trigger-Induced Self-Attention Redistribution**:
-  Computes the attention weight shifts caused by the trigger.
-  ```bash
-  python analysis/self_attn.py
-  ```
-- **Embedding-Space Geometry**:
-  Calculates the PCA projections and cosine-similarity distributions.
-  ```bash
-  python analysis/pca_kde.py
-  ```
-- **Geometric Vulnerability (Anisotropy)**:
-  Evaluates the anisotropy scores across different target embedding models.
-  ```bash
-  python analysis/geometric.py
-  ```
-
----
 
 ## ⚖️ Ethical Considerations
 
